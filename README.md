@@ -48,7 +48,7 @@ RP2350-Zero - Waveshare  development board
 
 C to C adapter (length 28 mm)
 
-<img width="1200" height="1200" alt="C TO C" src="https://github.com/user-attachments/assets/e211d9c8-951c-482b-a9d1-8f5d9c172bfb" />
+<img width="512" height="512" alt="C TO C" src="https://github.com/user-attachments/assets/e211d9c8-951c-482b-a9d1-8f5d9c172bfb" />
 
 
 
